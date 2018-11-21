@@ -43,9 +43,18 @@ This application has been built using the following:
 This application has used the DDD Architecture pattern to isolate the domain logic from the other responsibilities of an application, where the main domain entity is the Counter and the data manipulation has been implemented using the CQRS architectural pattern along with the Event sourcing which is used to not to save the current state of the application data but the sequence of Domain Events that led the aggregate into its current state. To load an aggregate it is sufficient to read all the events associated with it and to replay them.
 
 ## Deployment
-
-- Navigate to Eventstore Software folder
-- Run these executable files EventStore.ClusterNode.exe and EventStore.TestClient.exe as administrator
+- Download Eventstore software from https://eventstore.org/downloads/
+- Download AlwaysUp software from https://www.coretechnologies.com/products/AlwaysUp/AlwaysUp_Installer.exe
+- Double click on AlwaysUp_Installer.exe and go with the wizard
+- After AlwaysUp installation finish open it
+- Click Application > Add (Add Application window will appears)
+- Select General tab
+- In Name property add "Event store" 
+- In Application Property browse to EventStore software folder and select "EventStore.ClusterNode.exe"
+- Select Logon tab and add the authorized user and password
+- Select Startup tab and check the check box of "Ensure that the Windows Networking components have started". This tells AlwaysUp that Event Store needs the TCP/IP stack to function.
+- Click save
+- Click Application Start "Event Store"
 - Open OS new Command Line Prompt
 - cd to the project path
 - run: dotnet publish -o ./publish Counter_kfzteile24_Task
