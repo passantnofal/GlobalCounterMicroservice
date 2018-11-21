@@ -1,0 +1,13 @@
+C:\Passant\personal\kfzteile24\Counter_kfzteile24_Task\Counter.DomainObjects\bin\Debug\netcoreapp2.1\Counter.DomainObjects.deps.json
+C:\Passant\personal\kfzteile24\Counter_kfzteile24_Task\Counter.DomainObjects\bin\Debug\netcoreapp2.1\Counter.DomainObjects.dll
+C:\Passant\personal\kfzteile24\Counter_kfzteile24_Task\Counter.DomainObjects\obj\Debug\netcoreapp2.1\Counter.DomainObjects.csproj.CoreCompileInputs.cache
+C:\Passant\personal\kfzteile24\Counter_kfzteile24_Task\Counter.DomainObjects\obj\Debug\netcoreapp2.1\Counter.DomainObjects.AssemblyInfoInputs.cache
+C:\Passant\personal\kfzteile24\Counter_kfzteile24_Task\Counter.DomainObjects\obj\Debug\netcoreapp2.1\Counter.DomainObjects.AssemblyInfo.cs
+C:\Passant\personal\kfzteile24\Counter_kfzteile24_Task\Counter.DomainObjects\bin\Debug\netcoreapp2.1\Counter.DomainObjects.runtimeconfig.json
+C:\Passant\personal\kfzteile24\Counter_kfzteile24_Task\Counter.DomainObjects\bin\Debug\netcoreapp2.1\Counter.DomainObjects.runtimeconfig.dev.json
+C:\Passant\personal\kfzteile24\Counter_kfzteile24_Task\Counter.DomainObjects\bin\Debug\netcoreapp2.1\Counter.DomainObjects.pdb
+C:\Passant\personal\kfzteile24\Counter_kfzteile24_Task\Counter.DomainObjects\obj\Debug\netcoreapp2.1\Counter.DomainObjects.csprojResolveAssemblyReference.cache
+C:\Passant\personal\kfzteile24\Counter_kfzteile24_Task\Counter.DomainObjects\obj\Debug\netcoreapp2.1\Counter.DomainObjects.dll
+C:\Passant\personal\kfzteile24\Counter_kfzteile24_Task\Counter.DomainObjects\obj\Debug\netcoreapp2.1\Counter.DomainObjects.pdb
+C:\Passant\personal\kfzteile24\Counter_kfzteile24_Task\Counter.DomainObjects\bin\Debug\netcoreapp2.1\Counter.Resources.dll
+C:\Passant\personal\kfzteile24\Counter_kfzteile24_Task\Counter.DomainObjects\bin\Debug\netcoreapp2.1\Counter.Resources.pdb

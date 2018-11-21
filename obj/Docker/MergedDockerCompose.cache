@@ -1,0 +1,15 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  counter.api:
+    build:
+      context: C:\Passant\personal\kfzteile24\Counter_kfzteile24_Task\Counter_kfzteile24_Task
+      dockerfile: Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: counter.api
+    ports:
+    - 80/tcp
+version: '3.0'

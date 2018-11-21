@@ -1,0 +1,4 @@
+C:\Passant\personal\kfzteile24\Counter_kfzteile24_Task\.vs\Counter_kfzteile24_Task\lut\0\i\Counter.Command.Tests\Debug\netcoreapp2.1\Counter.Command.Tests.csprojResolveAssemblyReference.cache
+C:\Passant\personal\kfzteile24\Counter_kfzteile24_Task\.vs\Counter_kfzteile24_Task\lut\0\i\Counter.Command.Tests\Debug\netcoreapp2.1\Counter.Command.Tests.csproj.CoreCompileInputs.cache
+C:\Passant\personal\kfzteile24\Counter_kfzteile24_Task\.vs\Counter_kfzteile24_Task\lut\0\i\Counter.Command.Tests\Debug\netcoreapp2.1\Counter.Command.Tests.AssemblyInfoInputs.cache
+C:\Passant\personal\kfzteile24\Counter_kfzteile24_Task\.vs\Counter_kfzteile24_Task\lut\0\i\Counter.Command.Tests\Debug\netcoreapp2.1\Counter.Command.Tests.AssemblyInfo.cs

@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EventStore.ClientAPI.NetCore" Version="4.1.0.23" />
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.1.6" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.9.0" />
+    <PackageReference Include="MockQueryable.NSubstitute" Version="1.0.3" />
+    <PackageReference Include="Moq" Version="4.10.0" />
+    <PackageReference Include="xunit" Version="2.4.0" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="2.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Counter.Command\Counter.Command.csproj" />
+    <ProjectReference Include="..\Counter.DomainObjects\Counter.DomainObjects.csproj" />
+    <ProjectReference Include="..\Counter.Repository\Counter.Repository.csproj" />
+    <ProjectReference Include="..\Counter.Test.Infrastructure\Counter.Test.Infrastructure.csproj" />
+    <ProjectReference Include="..\Counter_kfzteile24_Task\Counter.API.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,17 @@
+C:\Passant\personal\kfzteile24\Counter_kfzteile24_Task\Counter.Test.Infrastructure\bin\Debug\netcoreapp2.1\Counter.Test.Infrastructure.deps.json
+C:\Passant\personal\kfzteile24\Counter_kfzteile24_Task\Counter.Test.Infrastructure\bin\Debug\netcoreapp2.1\Counter.Test.Infrastructure.dll
+C:\Passant\personal\kfzteile24\Counter_kfzteile24_Task\Counter.Test.Infrastructure\obj\Debug\netcoreapp2.1\Counter.Test.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Passant\personal\kfzteile24\Counter_kfzteile24_Task\Counter.Test.Infrastructure\obj\Debug\netcoreapp2.1\Counter.Test.Infrastructure.AssemblyInfoInputs.cache
+C:\Passant\personal\kfzteile24\Counter_kfzteile24_Task\Counter.Test.Infrastructure\obj\Debug\netcoreapp2.1\Counter.Test.Infrastructure.AssemblyInfo.cs
+C:\Passant\personal\kfzteile24\Counter_kfzteile24_Task\Counter.Test.Infrastructure\bin\Debug\netcoreapp2.1\Counter.Command.dll
+C:\Passant\personal\kfzteile24\Counter_kfzteile24_Task\Counter.Test.Infrastructure\bin\Debug\netcoreapp2.1\Counter.Resources.dll
+C:\Passant\personal\kfzteile24\Counter_kfzteile24_Task\Counter.Test.Infrastructure\bin\Debug\netcoreapp2.1\Counter.Command.pdb
+C:\Passant\personal\kfzteile24\Counter_kfzteile24_Task\Counter.Test.Infrastructure\bin\Debug\netcoreapp2.1\Counter.Resources.pdb
+C:\Passant\personal\kfzteile24\Counter_kfzteile24_Task\Counter.Test.Infrastructure\obj\Debug\netcoreapp2.1\Counter.Test.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Passant\personal\kfzteile24\Counter_kfzteile24_Task\Counter.Test.Infrastructure\bin\Debug\netcoreapp2.1\Counter.Test.Infrastructure.pdb
+C:\Passant\personal\kfzteile24\Counter_kfzteile24_Task\Counter.Test.Infrastructure\bin\Debug\netcoreapp2.1\Counter.DomainObjects.dll
+C:\Passant\personal\kfzteile24\Counter_kfzteile24_Task\Counter.Test.Infrastructure\bin\Debug\netcoreapp2.1\Counter.DomainObjects.pdb
+C:\Passant\personal\kfzteile24\Counter_kfzteile24_Task\Counter.Test.Infrastructure\obj\Debug\netcoreapp2.1\Counter.Test.Infrastructure.dll
+C:\Passant\personal\kfzteile24\Counter_kfzteile24_Task\Counter.Test.Infrastructure\obj\Debug\netcoreapp2.1\Counter.Test.Infrastructure.pdb
+C:\Passant\personal\kfzteile24\Counter_kfzteile24_Task\Counter.Test.Infrastructure\bin\Debug\netcoreapp2.1\Counter.Repository.dll
+C:\Passant\personal\kfzteile24\Counter_kfzteile24_Task\Counter.Test.Infrastructure\bin\Debug\netcoreapp2.1\Counter.Repository.pdb
