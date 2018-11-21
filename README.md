@@ -38,6 +38,16 @@ This application has been built using the following:
 - Nsubstituite
 - Swagger
 
-# Architecture
+## Architecture
 
 This application has used the DDD Architecture pattern to isolate the domain logic from the other responsibilities of an application, where the main domain entity is the Counter and the data manipulation has been implemented using the CQRS architectural pattern along with the Event sourcing which is used to not to save the current state of the application data but the sequence of Domain Events that led the aggregate into its current state. To load an aggregate it is sufficient to read all the events associated with it and to replay them.
+
+## Deployment
+
+- Navigate to Eventstore Software folder
+- Run these executable files EventStore.ClusterNode.exe and EventStore.TestClient.exe as administrator
+- Open OS new Command Line Prompt
+- cd to the project path
+- run: dotnet publish -o ./publish Counter_kfzteile24_Task
+- run: cd Counter_kfzteile24_Task\publish
+- run: dotnet counter.api.dll
