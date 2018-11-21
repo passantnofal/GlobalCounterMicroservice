@@ -3,7 +3,6 @@ using System.Text;
 using Counter.Resources;
 using Counter.Test.Infrastructure;
 using EventStore.ClientAPI;
-using Moq;
 using NSubstitute;
 using Xunit;
 

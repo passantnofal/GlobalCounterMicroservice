@@ -1,20 +1,21 @@
 # Counter Project
-this application to Increment a counter and get the latest value of the counter.
+This application Implement the idea of having a global counter that get incremented accross all users requests
 
 ## Prerequisites
 You need to install
 
--Eventstore from https://eventstore.org/downloads/
--Angular Cli version 6
+- .Net core 2.1.6
+- Eventstore from https://eventstore.org/downloads/
+
 
 ## Installing
 - Clone the project
-- Install  project dependencies from Nuget.
 
 ## How to run
 
 - Navigate to Eventstore Software folder
-- run as administrator EventStore.ClusterNode.exe and EventStore.TestClient.exe
+- Run these executable files EventStore.ClusterNode.exe and EventStore.TestClient.exe as administrator
+- Go back to project folder and open Counter_kfzteile24_Task.sln file
 - Build project and Run
 - Navigate to http://localhost:55089/swagger/index.html
 
