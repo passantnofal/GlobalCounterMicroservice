@@ -6,6 +6,7 @@ You need to install
 
 - .Net core 2.1.6
 - Eventstore from https://eventstore.org/downloads/
+- Download latest update of Visual Studio
 
 
 ## Installing
