@@ -56,6 +56,7 @@ This application has used the DDD Architecture pattern to isolate the domain log
 - Select Startup tab and check the check box of "Ensure that the Windows Networking components have started". This tells AlwaysUp that Event Store needs the TCP/IP stack to function.
 - Click save
 - Click Application Start "Event Store"
+- Build Project
 - Open OS new Command Line Prompt
 - cd to the project path
 - run: dotnet publish -o ./publish Counter_kfzteile24_Task
