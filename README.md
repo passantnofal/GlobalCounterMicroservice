@@ -1,5 +1,5 @@
 # Counter Project
-This application Implement the idea of having a global counter that get incremented accross all users requests
+This application Implement the idea of having a global counter that get incremented across all users requests
 
 ## Prerequisites
 You need to install
