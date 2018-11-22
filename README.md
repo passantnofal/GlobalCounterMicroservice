@@ -4,7 +4,7 @@ This application Implement the idea of having a global counter that get incremen
 ## Prerequisites
 You need to install
 
-- .Net core 2.1.6
+- .Net core 2.1.6 https://www.microsoft.com/net/download
 - Eventstore from https://eventstore.org/downloads/
 - Download latest update of Visual Studio
 
@@ -56,6 +56,9 @@ This application has used the DDD Architecture pattern to isolate the domain log
 - Select Startup tab and check the check box of "Ensure that the Windows Networking components have started". This tells AlwaysUp that Event Store needs the TCP/IP stack to function.
 - Click save
 - Click Application Start "Event Store"
+- Open Project (i.e. Vistual studio)
+- Right click on Counter.API project and click properties
+- Go to debug tab change Environment Variables "ASPNETCORE_ENVIRONMENT" from "Development" to Production
 - Build Project
 - Open OS new Command Line Prompt
 - cd to the project path
